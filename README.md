@@ -53,18 +53,11 @@
 </table>
 
 
-<h2 align="left"> 💻 Language</h2>
+<h2 align="left"> 💻 Tech Stack</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,rust,cpp,go,&perline=16"/>
 </p>
-
-<h2 align="left">💻 Tech Stack</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,express,django,flask,tensorflow,pytorch,mongo,nginx,postman,aws,googlecloud,polars,pandas &perline=16"/>
-</p>
-
 
 <h2 align="center">🌐 Let's Connect</h2>
 
