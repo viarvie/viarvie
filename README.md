@@ -43,12 +43,6 @@
 - ✨ Always chasing the next idea worth building.
 </td>
 
-<td width="35%" align="center" valign="middle">
-
-<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="160" alt="Cute developer girl" />
-
-</td>
-
 </tr>
 </table>
 
