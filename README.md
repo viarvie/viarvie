@@ -28,12 +28,12 @@
  -->
 
 
-<h2 align="center">👩‍💻 About Me</h2>
+<!-- <h2 align="center">👩‍💻 About Me</h2> -->
 
 <table align="center">
 <tr>
 
-<td width="65%" valign="top">
+<!-- <td width="65%" valign="top">
 
 - 💻 Full Stack Developer passionate about building modern web apps.
 - 🌱 Currently learning System Design, Cloud & DevOps.
@@ -41,7 +41,7 @@
 - 🎯 Goal: Create products that solve real-world problems.
 - 🌌 Passionate about AI, astronomy, Art,painting, and building things that matter.
 - ✨ Always chasing the next idea worth building.
-</td>
+</td> -->
 
 </tr>
 </table>
@@ -53,7 +53,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,rust,cpp,go,&perline=16"/>
 </p>
 
-<h2 align="center">🌐 Let's Connect</h2>
+<!-- <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
 
@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</p> -->
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F51FF,50:1F51FF,100:1F51FF&height=140&section=footer"/>
