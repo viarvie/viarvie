@@ -28,12 +28,12 @@
  -->
 
 
-<!-- <h2 align="center">👩‍💻 About Me</h2>
+<h2 align="center">👩‍💻 About Me</h2>
 
 <table align="center">
 <tr>
 
-<td width="65%" valign="top">
+<!-- <td width="65%" valign="top">
 
 - 💻 Full Stack Developer passionate about building modern web apps.
 - 🌱 Currently learning System Design, Cloud & DevOps.
@@ -41,7 +41,7 @@
 - 🎯 Goal: Create products that solve real-world problems.
 - 🌌 Passionate about AI, astronomy, Art,painting, and building things that matter.
 - ✨ Always chasing the next idea worth building.
-</td>
+</td> -->
 
 </tr>
 </table> -->
