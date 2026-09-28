@@ -43,7 +43,7 @@
 - ✨ Always chasing the next idea worth building.
 </td> -->
 
-</tr>
+<!-- </tr>
 </table> -->
 
 
